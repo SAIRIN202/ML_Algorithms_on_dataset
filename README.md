@@ -5,14 +5,14 @@ This project explores how machine learning can be applied to detect human muscle
 We used a public dataset from IEEE DataPort titled:
 [Bicep Detection Using Electromyography and 3-Axis Accelerometer Data](https://ieee-dataport.org/documents/bicep-detection-using-electromyography-and-3-axis-accelerometer-data)
 
----
+
 
 ## Files in This Repository
 
 - `EMG_Muscle_Analysis.ipynb`: Jupyter notebook using XGBoost, LightGBM, CatBoost, and StackingClassifier
 - `Bicep_Detection_Dataset.csv`: The labeled dataset used for classification
 
----
+
 
 ## Project Overview
 
@@ -26,13 +26,13 @@ Models used:
 - CatBoost
 - Stacking Classifier
 
----
+
 
 ## Results
 
 A separate report will summarize accuracy, confusion matrices, and classification scores for each model (see `RESULTS.md`).
 
----
+
 
 ## License
 
